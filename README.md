@@ -7,4 +7,9 @@ Nouvelle ligne depuis github
 Coucou
 =======
 Nouvelle ligne depuis branch test locale
+<<<<<<< HEAD
+>>>>>>> test
+=======
+Nouvelle ligne sur branche test
+
 >>>>>>> test
