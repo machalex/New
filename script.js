@@ -3,3 +3,7 @@ function(){
 	alert('test2');
 	alert('test3');
 }
+
+function(){
+alert();
+}
