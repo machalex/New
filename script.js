@@ -8,3 +8,6 @@ function(){
 function(){
 alert();
 }
+
+function c(){
+}
