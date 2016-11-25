@@ -6,3 +6,5 @@ Nouvelle ligne depuis github
 Coucou
 Nouvelle ligne depuis branch test locale
 Nouvelle ligne sur branche test
+
+Cette ligne a été ajoutée sur la branche new_test
