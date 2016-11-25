@@ -7,5 +7,7 @@ Coucou
 Nouvelle ligne depuis branch test locale
 Nouvelle ligne sur branche test
 
-Cette ligne est rajoutée sur la branch master
+Cette ligne a été ajoutée sur la branche master
+
+Cette ligne a été ajoutée sur la branche new_test
 
